@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ObligatoriosTests.pathOD should be src/data/OD/OD_test.csv[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ObligatoriosTests.pathStations should be src/data/Stations/Stations_test.csv[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Histogram result should [04,5.0], [05,14.0] [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TopsStations Analysis[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe size of the tables should be 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe top Start Station should be Chapleau / du Mont-Royal with 7 times used[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe top End Station should be Square St-Louis with 5 times used[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe top Start/End Station should be Chapleau / du Mont-Royal with 9 times used[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Top travel should be between 6149 and 6068 and 4 times in total[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TopRushHour should be at 18[0m[0m
